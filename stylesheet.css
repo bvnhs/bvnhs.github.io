@@ -47,7 +47,7 @@ li a:active {
 	height: 32px;
 	transform: translateY(18px);
 	float: right;
-	padding: 8px 23px;
+	padding: 8px 1%;
 
 	font-family: 'Roboto';
 	font-size: 32px;
@@ -58,7 +58,7 @@ li a:active {
 	position: absolute;
 	width: 50%;
 	height: 32px;
-	padding: 8px 23px;
+	padding: 8px 1%;
 
 	font-family: 'Roboto';
 	font-size: 32px;
@@ -81,4 +81,30 @@ li a:active {
 
 #home a:active {
     color: gold;
+}
+
+.block {
+	background-color: #fff;
+	text-align: center;
+	margin: 1%;
+	padding: 1%;
+}
+
+.title {
+	margin: auto;
+	padding: 12px 0;
+	text-align: center;
+	font-weight: bold; 
+	font-size: 24px;
+}
+
+.block ul {
+	list-style: none;
+	padding: 12px 0;
+	margin: 0;
+	font-size: 20px;
+}
+
+.block li {
+	padding: 4px 0;
 }
