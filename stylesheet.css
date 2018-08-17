@@ -46,7 +46,7 @@ li a:active {
 	display: inline-block;
 	height: 3vw;
 	float: right;
-	padding: 8px 1%;
+	padding: .5vw 1%;
 
 	font-family: 'Roboto';
 	font-size: 3vw;
@@ -57,7 +57,7 @@ li a:active {
 	position: absolute;
 	width: 50%;
 	height: 3vw;
-	padding: 8px 1%;
+	padding: .5vw 1%;
 
 	font-family: 'Roboto';
 	font-size: 3vw;
