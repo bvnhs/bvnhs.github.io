@@ -7,7 +7,7 @@ body {
 	height: 100%;
 
 	font-family: 'Roboto';
-	font-size: 24px;
+	font-size: 1.2vw;
 }
 
 a {
@@ -90,19 +90,19 @@ li a:active {
 
 .title {
 	margin: auto;
-	padding: 12px 0;
+	padding: .6vw 0;
 	text-align: center;
 	font-weight: bold; 
-	font-size: 24px;
+	font-size: 1.2vw;
 }
 
 .block ul {
 	list-style: none;
-	padding: 12px 0;
+	padding: .6vw 0;
 	margin: 0;
-	font-size: 20px;
+	font-size: 1vw;
 }
 
 .block li {
-	padding: 4px 0;
+	padding: .2vw 0;
 }
